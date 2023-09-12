@@ -135,7 +135,9 @@ sudo reboot
 
 7.
 
-NOT RECOMMEND YET!!! 8.4 Adding Fan Curve Setting with Console:
+NOT RECOMMEND YET!!!
+
+Adding Fan Curve Setting with Console:
 
 sudo pacman -S base-devel
 
