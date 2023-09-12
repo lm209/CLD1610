@@ -114,7 +114,7 @@ To enable refresh rate changing on these devices, enable developer mode in steam
 
 Install Official PowerTools from Decky Loader Store
 
-Download this two files for modded Version: https://github.com/hicder/PowerTools/releases/tag/v2.1
+Download this two files for modded Version: https://github.com/hicder/PowerTools/releases/tag/v2.1 (not needed if you Download my Release)
 
 Open the Console and Type:
 
