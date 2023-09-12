@@ -6,28 +6,28 @@ PLEASE UPDATE BEFORE, OVER MYASUS OR THE OFFICIAL DRIVER & SUPPORT SITE!
 
 1.
 
-Download the Windows Media Creation Tool and create a bootable USB Stick: https://www.microsoft.com/de-de/software-download/windows11 (not needed if you Download my Release)
+Download the Windows Media Creation Tool and create a bootable USB Drive: https://www.microsoft.com/de-de/software-download/windows11 (not needed if you Download my Release)
 
-Boot it up format and delete all partitions
+Boot it up, Format and delete all Partitions
 
 Leave the Partition to unallocated
 
-Mke a force shutdown
+Make a force Shutdown (hold the power button until it shutdown)
 
-Go to the bios and disable secure boot under boot options.
+Go to the bios and "Disable Secure Boot under "Boot" Options.
 
-Download this build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337 (not needed if you Download my Release)
+Download this Build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337 (not needed if you Download my Release)
 
-Download Etcher and make a bootable usb stick: https://etcher.balena.io/ (not needed if you Download my Release)
+Download Etcher and make a bootable USB Drive: https://etcher.balena.io/ (not needed if you Download my Release)
 
 
-boot it up
+Boot it up
 
-connect to wifi or Ethernet in the setup
+Connect to Wifi or Ethernet in the Setup
 
-select the ssd to install ChimeraOS
+Select the SSD to install ChimeraOS
 
-select the advanced user Installation and install the unstable build
+Select the "Advanced User Installation" and Install the "Unstable Build
 
 ##################################################
 
@@ -51,7 +51,7 @@ Start Cryoutilities and change all to Recommended, reboot now
 
 3.
 
-Again to Console Application
+Again to Console Application:
 
 sudo systemctl stop steam-patch
 
@@ -71,6 +71,8 @@ sudo reboot
 
 (If you have Double Inputs, then you must disable and enable handycon):
 
+type in:
+
 sudo systemctl disable handycon
 
 sudo systemctl enable handycon
@@ -80,6 +82,8 @@ sudo reboot
 ##############################################
 
 4.
+
+Again:
 
 systemctl --user enable chimera.service
 
@@ -100,6 +104,8 @@ sudo systemctl enable steam-patch.service
 sudo systemctl start steam-patch.service
 
 sudo reboot
+
+Again:
 
 systemctl --user disable chimera
 
@@ -183,7 +189,7 @@ sudo reboot
 
 Activate VRR in the Steam Menu and Change the Hz Refresh to 120hz.
 
-Download ProtonUp-Qt or use Wine Cellar from Decky Loader 
+Download ProtonUp-Qt from the Discovery Store or use Wine Cellar from Decky Loader 
 
 Download the latest GE Proton!!!
 
