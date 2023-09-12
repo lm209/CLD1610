@@ -87,7 +87,7 @@ sudo reboot
 
 8.1. Install Official PowerTools from Decky Loader Store
 
-Download this modded Version: https://github.com/hicder/PowerTools/releases/tag/v2.1
+Download this two files for modded Version: https://github.com/hicder/PowerTools/releases/tag/v2.1
 
 8.3. Open the Console and Type:
 
