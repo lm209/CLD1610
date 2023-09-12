@@ -3,7 +3,7 @@ ChimeraOS Asus Rog Ally Setting Up
 
 1.
 
-Download the Windows Media Creation Tool and create a bootable USB Stick: https://www.microsoft.com/de-de/software-download/windows11
+Download the Windows Media Creation Tool and create a bootable USB Stick: https://www.microsoft.com/de-de/software-download/windows11 (not needed if you Download my Release)
 
 Boot it up format and delete all partitions
 
@@ -13,9 +13,10 @@ Mke a force shutdown
 
 Go to the bios and disable secure boot under boot options.
 
-Download this build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337
+Download this build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337 not needed if you Download my Release)
 
-Download Etcher and make a bootable usb stick: https://etcher.balena.io/
+Download Etcher and make a bootable usb stick: https://etcher.balena.io/ (not needed if you Download my Release)
+
 
 boot it up
 
