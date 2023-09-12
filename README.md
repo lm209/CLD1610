@@ -138,7 +138,7 @@ sudo reboot
 
 7.
 
-NOT RECOMMEND YET!!!
+NOT RECOMMENDED YET!!!
 
 Adding Fan Curve Setting with Console:
 
