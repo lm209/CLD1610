@@ -116,6 +116,8 @@ Install Official PowerTools from Decky Loader Store
 
 Download this two files for modded Version: https://github.com/hicder/PowerTools/releases/tag/v2.1 (not needed if you Download my Release)
 
+Extract these two files to the "Downloads" Folder
+
 Open the Console and Type:
 
 sudo systemctl stop plugin_loader
