@@ -45,7 +45,7 @@ Start Cryoutilities and change all to Recommended, reboot now
 
 ###############################################
 
-2.
+3.
 
 Again to Console Application
 
@@ -75,7 +75,7 @@ sudo reboot
 
 ##############################################
 
-3.
+4.
 
 systemctl --user enable chimera.service
 
@@ -103,13 +103,13 @@ sudo reboot
 
 ###########################################
 
-4.
+5.
  
 To enable refresh rate changing on these devices, enable developer mode in steam and check the "Enable refresh rate changing with external displays" option.
 
 ###########################################
 
-5.
+6.
 
 Install Official PowerTools from Decky Loader Store
 
@@ -133,7 +133,7 @@ sudo reboot
 
 ############################################
 
-6.
+7.
 
 NOT RECOMMEND YET!!! 8.4 Adding Fan Curve Setting with Console:
 
@@ -171,7 +171,7 @@ sudo reboot
 
 ##############################################
 
-7.
+8.
 
 Activate VRR in the Steam Menu and Change the Hz Refresh to 120hz.
 
