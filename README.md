@@ -6,7 +6,9 @@ ChimeraOS Asus Rog Ally Setting Up
 1. Boot it up format and delete all partitions
 2. leave the Partition to unallocated
 3. make a force shutdown
-4. Download this build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337
+4. go to the bios and disable secure boot under boot options.
+
+6. Download this build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337
 
 Download Etcher and make a bootable usb stick: https://etcher.balena.io/
 
