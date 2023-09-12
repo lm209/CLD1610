@@ -1,6 +1,9 @@
 # 
 ChimeraOS Asus Rog Ally Setting Up
 
+ITS RECOMMENDED TO HAVE THE BIOS AND MCU FIRMWARE UP TO DATE!
+PLEASE UPDATE BEFORE, OVER MYASUS OR THE OFFICIAL DRIVER & SUPPORT SITE!
+
 1.
 
 Download the Windows Media Creation Tool and create a bootable USB Stick: https://www.microsoft.com/de-de/software-download/windows11 (not needed if you Download my Release)
