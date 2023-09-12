@@ -8,9 +8,13 @@ ChimeraOS Asus Rog Ally Setting Up
 3. make a force shutdown
 4. Download this build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337
 Download Etcher and make a bootable usb stick
+
 boot it up
+
 connect to wifi or Ethernet in the setup
+
 select the ssd to install ChimeraOS
+
 select the advanced user Installation and install the unstable build
 
 Now go to the Desktop mode and Open the Console Application.
