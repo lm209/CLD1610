@@ -1,4 +1,4 @@
-# CLD1610
+# 
 ChimeraOS Asus Rog Ally Setting Up
 
 
@@ -7,25 +7,25 @@ ChimeraOS Asus Rog Ally Setting Up
 2. leave the Partition to unallocated
 3. make a force shutdown
 4. Download this build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337
-5. Download Etcher and make a bootable usb stick
-6. boot it up
-7. connect to wifi or Ethernet in the setup
-8. select the ssd to install ChimeraOS
-9. select the advanced user Installation and install the unstable build
-10. 
-11. Now go to the Desktop mode and Open the Console Application.
-12. Password is "gamer"
-13. type in:
-14. sudo frzr-unlock
-15. curl -L https://github.com/SteamDeckHomebrew/decky-loader/raw/main/dist/install_release.sh | sh
-16. curl https://raw.githubusercontent.com/CryoByte33/steam-deck-utilities/main/install.sh | bash -s --
-17. Start Cryoutilities and change all to Recommended, reboot now
-18. 
-19. Again to Console Application
-3.1. sudo systemctl stop steam-patch
-20. curl -L https://github.com/Maclay74/steam-patch/releases/latest/download/install.sh | sh
-21. sudo reboot
-22. 
+Download Etcher and make a bootable usb stick
+boot it up
+connect to wifi or Ethernet in the setup
+select the ssd to install ChimeraOS
+select the advanced user Installation and install the unstable build
+
+Now go to the Desktop mode and Open the Console Application.
+Password is "gamer"
+type in:
+sudo frzr-unlock
+curl -L https://github.com/SteamDeckHomebrew/decky-loader/raw/main/dist/install_release.sh | sh
+curl https://raw.githubusercontent.com/CryoByte33/steam-deck-utilities/main/install.sh | bash -s --
+Start Cryoutilities and change all to Recommended, reboot now
+
+ Again to Console Application
+ sudo systemctl stop steam-patch
+ curl -L https://github.com/Maclay74/steam-patch/releases/latest/download/install.sh | sh
+ sudo reboot
+ 
 5.2. sudo pacman -S python-setuptools
 5.5. sudo systemctl stop handycon
 5.6. pikaur -Sy handygccs-git
