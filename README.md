@@ -6,7 +6,7 @@ PLEASE UPDATE BEFORE, OVER MYASUS OR THE OFFICIAL DRIVER & SUPPORT SITE!
 
 Note: This operating system is still under development.  There could be errors and missing components.  However, the operating system is in a stable state
 
-#####################################################
+####################################################
 
 1.
 
@@ -134,6 +134,7 @@ ES WIRD EMPFOHLEN, DAS BIOS UND DIE MCU-FIRMWARE AUF DEM AKTUELLSTEN STAND ZU HA
 
 Hinweis: Dieses Betriebssystem befindet sich noch in der Entwicklung.  Es kann zu Fehlern und fehlenden Komponenten kommen.  Das Betriebssystem befindet sich jedoch in einem stabilen Zustand
 -------------------------------------------------------------------------
+
 1.
 
 Laden Sie das Windows Media Creation Tool herunter und erstellen Sie ein bootfähiges USB-Laufwerk: https://www.microsoft.com/de-de/software-download/windows11 (nicht erforderlich, sofern Sie mein Release herunterladen)
@@ -155,7 +156,9 @@ Stellen Sie im Setup eine Verbindung zu WLAN oder Ethernet her
 Wählen Sie die SSD aus, um ChimeraOS zu installieren
 
 Wählen Sie die „Advanced User Installation“ und installieren Sie „Unstable Build“.
+
 -------------------------------------------------------------------------
+
 2.
 
 Richtet nun Steam mit euren Account ein
@@ -173,7 +176,9 @@ curl -L https://github.com/SteamDeckHomebrew/decky-loader/raw/main/dist/install_
 curl https://raw.githubusercontent.com/CryoByte33/steam-deck-utilities/main/install.sh | bash -s --
 
 Startet nun Cryoutilities, PW ist "gamer" und wählt recommended Setting aus. Startet danach das Gerät neu.
+
 -------------------------------------------------------------------------
+
 3.
 
 Geht wieder in die Konsolenanwendung:
@@ -189,20 +194,26 @@ type first "Y" and the second "N"
 sudo systemctl enable --now handycon
 
 sudo reboot
+
 -------------------------------------------------------------------------
-5.
+
+4.
 
 Und nochmal in die Konsolenanwendung:
 
 systemctl --user disable chimera
 
 sudo reboot
+
 -------------------------------------------------------------------------
-6.
+
+5.
 
 Um die Änderung der Bildwiederholfrequenz auf diesen Geräten zu aktivieren, aktivieren Sie den Entwicklermodus in Steam, geht auf Entwickler ganz unten in der Leiste und aktivieren Sie die Option „Änderung der Bildwiederholfrequenz mit externen Displays aktivieren“.
+
 -------------------------------------------------------------------------
-7.
+
+6.
 
 Installiert das offizielle PowerTools aus dem Decky Loader Store herunter (nicht löschen)
 
@@ -225,8 +236,10 @@ sudo cp --preserve=mode /home/gamer/Downloads/index.js $HOME/homebrew/plugins/Po
 sudo systemctl start plugin_loader
 
 sudo reboot
+
 -------------------------------------------------------------------------
-8.
+
+7.
 
 Aktivieren Sie VRR im Steam-Menü und ändern Sie die Hz-Aktualisierung auf 120 Hz.
 
