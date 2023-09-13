@@ -1,0 +1,107 @@
+ChimeraOS Asus Rog Ally Anleitung 
+
+ES WIRD EMPFOHLEN, DAS BIOS UND DIE MCU-FIRMWARE AUF DEM AKTUELLSTEN STAND ZU HABEN!  BITTE VORHER AKTUALISIEREN, ÜBER DIE MYASUS APP ODER DIE OFFIZIELLE TREIBER UND SUPPORT-SEITE!
+
+Hinweis: Dieses Betriebssystem befindet sich noch in der Entwicklung.  Es kann zu Fehlern und fehlenden Komponenten kommen.  Das Betriebssystem befindet sich jedoch in einem stabilen Zustand
+-------------------------------------------------------------------------
+1.
+
+Laden Sie das Windows Media Creation Tool herunter und erstellen Sie ein bootfähiges USB-Laufwerk: https://www.microsoft.com/de-de/software-download/windows11 (nicht erforderlich, sofern Sie mein Release herunterladen)
+
+Booten Sie über den USB Stick und formatieren und löschen Sie alle Partitionen.
+
+Lassen Sie die Partition auf "nicht zugeordnet"
+
+Führen Sie ein erzwungenes Herunterfahren durch (halten Sie den Netzschalter gedrückt, bis er herunterfährt).
+
+Gehen Sie zum BIOS und deaktivieren Sie „Sicheres Booten“ unter „Boot“-Optionen.
+
+Ladet euch diese Version herunter: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337 (nicht erforderlich, sofern Sie mein Release herunterladen)
+
+Booten nun über den USB Stick 
+
+Stellen Sie im Setup eine Verbindung zu WLAN oder Ethernet her
+
+Wählen Sie die SSD aus, um ChimeraOS zu installieren
+
+Wählen Sie die „Advanced User Installation“ und installieren Sie „Unstable Build“.
+-------------------------------------------------------------------------
+2.
+
+Richtet nun Steam mit euren Account ein
+
+Gehen Sie nun in den Desktop-Modus und öffnen Sie die Konsolenanwendung.
+
+Passwort ist „gamer“
+
+Befolgt nun diese Befehle:
+
+sudo frzr-unlock
+
+curl -L https://github.com/SteamDeckHomebrew/decky-loader/raw/main/dist/install_release.sh | sh
+
+curl https://raw.githubusercontent.com/CryoByte33/steam-deck-utilities/main/install.sh | bash -s --
+
+Startet nun Cryoutilities, PW ist "gamer" und wählt recommended Setting aus. Startet danach das Gerät neu.
+-------------------------------------------------------------------------
+3.
+
+Geht wieder in die Konsolenanwendung:
+
+sudo pacman -S python-setuptools
+
+sudo systemctl stop handycon
+
+pikaur -Sy handygccs-git
+
+type first "Y" and the second "N"
+
+sudo systemctl enable --now handycon
+
+sudo reboot
+-------------------------------------------------------------------------
+5.
+
+Und nochmal in die Konsolenanwendung:
+
+systemctl --user disable chimera
+
+sudo reboot
+-------------------------------------------------------------------------
+6.
+
+Um die Änderung der Bildwiederholfrequenz auf diesen Geräten zu aktivieren, aktivieren Sie den Entwicklermodus in Steam, geht auf Entwickler ganz unten in der Leiste und aktivieren Sie die Option „Änderung der Bildwiederholfrequenz mit externen Displays aktivieren“.
+-------------------------------------------------------------------------
+7.
+
+Installiert das offizielle PowerTools aus dem Decky Loader Store herunter (nicht löschen)
+
+Laden Sie diese beiden Dateien für die modifizierte Version herunter: https://github.com/hicder/PowerTools/releases/tag/v2.1 (nicht erforderlich, sofern Sie mein Release herunterladen)
+
+Extrahieren Sie diese beiden Dateien in den Ordner „Downloads“.
+
+Öffnen Sie die Konsole und geben Sie Folgendes ein:
+
+sudo systemctl stop plugin_loader
+
+rm ~/.config/powertools/*.json
+
+rm $HOME/.config/powertools/limits_cache.json
+
+sudo cp --preserve=mode /home/gamer/Downloads/backend $HOME/homebrew/plugins/PowerTools/bin/backend
+
+sudo cp --preserve=mode /home/gamer/Downloads/index.js $HOME/homebrew/plugins/PowerTools/dist/index.js
+
+sudo systemctl start plugin_loader
+
+sudo reboot
+-------------------------------------------------------------------------
+8.
+
+Aktivieren Sie VRR im Steam-Menü und ändern Sie die Hz-Aktualisierung auf 120 Hz.
+
+Laden Sie ProtonUp-Qt aus dem Discovery Store herunter oder verwenden Sie Wine Cellar von Decky Loader
+
+Laden Sie das neueste GE Proton herunter!!!
+
+Jetzt sind Sie fertig. ChimeraOS sollte perfekt funktionieren. Wenn Sie das System aktualisieren, müssen Sie ChimeraOS nicht erneut einrichten.
