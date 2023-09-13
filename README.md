@@ -59,6 +59,8 @@ sudo systemctl stop handycon
 
 pikaur -Sy handygccs-git
 
+type first "Y" and the second "N"
+
 sudo systemctl enable --now handycon
 
 sudo reboot
