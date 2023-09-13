@@ -14,7 +14,7 @@ Lassen Sie die Partition auf "nicht zugeordnet"
 
 Führen Sie ein erzwungenes Herunterfahren durch (halten Sie den Netzschalter gedrückt, bis er herunterfährt).
 
-Gehen Sie zum BIOS und deaktivieren Sie „Sicheres Booten“ unter „Boot“-Optionen.
+Gehen Sie zum BIOS und deaktivieren Sie „Sicheres Booten“ unter „Security“-Optionen.
 
 Ladet euch diese Version herunter: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337 (nicht erforderlich, sofern Sie mein Release herunterladen)
 
