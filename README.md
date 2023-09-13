@@ -4,6 +4,10 @@ ChimeraOS Asus Rog Ally Setting Up
 ITS RECOMMENDED TO HAVE THE BIOS AND MCU FIRMWARE UP TO DATE!
 PLEASE UPDATE BEFORE, OVER MYASUS OR THE OFFICIAL DRIVER & SUPPORT SITE!
 
+Note: This operating system is still under development.  There could be errors and missing components.  However, the operating system is in a stable state
+
+#####################################################
+
 1.
 
 Download the Windows Media Creation Tool and create a bootable USB Drive: https://www.microsoft.com/de-de/software-download/windows11 (not needed if you Download my Release)
@@ -47,7 +51,7 @@ curl https://raw.githubusercontent.com/CryoByte33/steam-deck-utilities/main/inst
 
 Start Cryoutilities and change all to Recommended, reboot now
 
-###############################################
+#################################################
 
 3.
 
@@ -65,7 +69,7 @@ sudo systemctl enable --now handycon
 
 sudo reboot
 
-##############################################
+#################################################
 
 4.
 
@@ -75,13 +79,13 @@ systemctl --user disable chimera
 
 sudo reboot
 
-###########################################
+#################################################
 
 5.
  
 To enable refresh rate changing on these devices, enable developer mode in steam and check the "Enable refresh rate changing with external displays" option.
 
-###########################################
+#################################################
 
 6.
 
