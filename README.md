@@ -169,7 +169,7 @@ Wählen Sie die „Advanced User Installation“ und installieren Sie „Unstabl
 
 Richtet nun Steam mit euren Account ein
 
-Gehen Sie nun in den Desktop-Modus und öffnen Sie die Konsolenanwendung.
+Gehen Sie nun in den Desktop-Modus, drückt unten rechts auf den Menü Button, dort auf den X-Gnome Ordner und öffnen Sie die Konsolenanwendung.
 
 Passwort ist „gamer“
 
