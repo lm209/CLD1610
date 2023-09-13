@@ -54,40 +54,12 @@ Start Cryoutilities and change all to Recommended, reboot now
 #################################################
 
 3.
-
-Again to Console Application:
- 
-sudo pacman -S python-setuptools
-
-sudo systemctl stop handycon
-
-pikaur -Sy handygccs-git
-
-type first "Y" and the second "N"
-
-sudo systemctl enable --now handycon
-
-sudo reboot
-
-#################################################
-
-4.
-
-Again:
-
-systemctl --user disable chimera
-
-sudo reboot
-
-#################################################
-
-5.
  
 To enable refresh rate changing on these devices, enable developer mode in steam and check the "Enable refresh rate changing with external displays" option.
 
 #################################################
 
-6.
+4.
 
 Install Official PowerTools from Decky Loader Store
 
@@ -113,7 +85,7 @@ sudo reboot
 
 ##############################################
 
-7.
+5.
 
 Activate VRR in the Steam Menu and Change the Hz Refresh to 120hz.
 
@@ -187,39 +159,11 @@ Startet nun Cryoutilities, PW ist "gamer" und wählt recommended Setting aus. St
 
 3.
 
-Geht wieder in die Konsolenanwendung:
-
-sudo pacman -S python-setuptools
-
-sudo systemctl stop handycon
-
-pikaur -Sy handygccs-git
-
-type first "Y" and the second "N"
-
-sudo systemctl enable --now handycon
-
-sudo reboot
-
--------------------------------------------------------------------------
-
-4.
-
-Und nochmal in die Konsolenanwendung:
-
-systemctl --user disable chimera
-
-sudo reboot
-
--------------------------------------------------------------------------
-
-5.
-
 Um die Änderung der Bildwiederholfrequenz auf diesen Geräten zu aktivieren, aktivieren Sie den Entwicklermodus in Steam, geht auf Entwickler ganz unten in der Leiste und aktivieren Sie die Option „Änderung der Bildwiederholfrequenz mit externen Displays aktivieren“.
 
 -------------------------------------------------------------------------
 
-6.
+4.
 
 Installiert das offizielle PowerTools aus dem Decky Loader Store herunter (nicht löschen)
 
@@ -245,7 +189,7 @@ sudo reboot
 
 -------------------------------------------------------------------------
 
-7.
+5.
 
 Aktivieren Sie VRR im Steam-Menü und ändern Sie die Hz-Aktualisierung auf 120 Hz.
 
