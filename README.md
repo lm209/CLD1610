@@ -132,6 +132,8 @@ Now you are done. ChimeraOS should be working perfectly. If you Update the Syste
 
 
 
+
+################################################
 GERMAN USER GUIDE#
 ChimeraOS Asus Rog Ally Anleitung 
 
@@ -142,7 +144,7 @@ Hinweis: Dieses Betriebssystem befindet sich noch in der Entwicklung.  Es kann z
 
 1.
 
-Laden Sie das Windows Media Creation Tool herunter und erstellen Sie ein bootfähiges USB-Laufwerk: https://www.microsoft.com/de-de/software-download/windows11 (nicht erforderlich, sofern Sie mein Release herunterladen)
+Laden Sie das Windows Media Creation Tool herunter und erstellen Sie ein bootfähiges USB-Laufwerk: https://www.microsoft.code/software-download/windows11 (nicht erforderlich, sofern Sie mein Release herunterladen)
 
 Booten Sie über den USB Stick und formatieren und löschen Sie alle Partitionen.
 
