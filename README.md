@@ -133,12 +133,11 @@ Now you are done. ChimeraOS should be working perfectly. If you Update the Syste
 
 
 
-################################################
 GERMAN USER GUIDE#
 ChimeraOS Asus Rog Ally Anleitung 
-
+-------------------------------------------------------------------------
 ES WIRD EMPFOHLEN, DAS BIOS UND DIE MCU-FIRMWARE AUF DEM AKTUELLSTEN STAND ZU HABEN!  BITTE VORHER AKTUALISIEREN, ÜBER DIE MYASUS APP ODER DIE OFFIZIELLE TREIBER UND SUPPORT-SEITE!
-
+-------------------------------------------------------------------------
 Hinweis: Dieses Betriebssystem befindet sich noch in der Entwicklung.  Es kann zu Fehlern und fehlenden Komponenten kommen.  Das Betriebssystem befindet sich jedoch in einem stabilen Zustand
 -------------------------------------------------------------------------
 
