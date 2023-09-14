@@ -53,7 +53,7 @@ Start Cryoutilities and change all to Recommended, reboot now
 
 #################################################
 
-3.
+3. NOT available at the Moment!
  
 To enable refresh rate changing on these devices, enable developer mode in steam and check the "Enable refresh rate changing with external displays" option.
 
@@ -157,7 +157,7 @@ Startet nun Cryoutilities, PW ist "gamer" und wählt recommended Setting aus. St
 
 -------------------------------------------------------------------------
 
-3.
+3. MOMENT NICHT ZUR VERFÜGUNG, WIR HABEN UNS DAZU ENTSCHLOSSEN ES VORÜBERGEHEND ZU DEAKTIVIEREN!
 
 Um die Änderung der Bildwiederholfrequenz auf diesen Geräten zu aktivieren, aktivieren Sie den Entwicklermodus in Steam, geht auf Entwickler ganz unten in der Leiste und aktivieren Sie die Option „Änderung der Bildwiederholfrequenz mit externen Displays aktivieren“.
 
