@@ -1,3 +1,12 @@
+
+
+
+![logo](https://github.com/lm209/CLD1610/assets/82281970/b86253ab-a91d-442c-9d48-845a75db5e2d)<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+
+
+
 ENGLISH USER GUIDE# 
 ChimeraOS Asus Rog Ally Setting Up
 
