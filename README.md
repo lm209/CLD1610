@@ -85,6 +85,28 @@ sudo reboot
 
 ##############################################
 
+4.1
+
+Adding Fan Curve Setting with Console:
+
+sudo pacman -S base-devel
+
+pikaur -S rog-control-center
+
+Open Rog Control Center
+
+Setting up your Curve Profiles and save it in the GUI
+
+systemctl start asusd
+
+sudo reboot
+
+If you Update rog-control-center then Type this:
+
+$ systemctl daemon-reload && systemctl restart asusd
+
+##############################################
+
 5.
 
 Activate VRR in the Steam Menu and Change the Hz Refresh to 120hz.
@@ -186,6 +208,30 @@ sudo cp --preserve=mode /home/gamer/Downloads/index.js $HOME/homebrew/plugins/Po
 sudo systemctl start plugin_loader
 
 sudo reboot
+
+-------------------------------------------------------------------------
+
+4.1
+
+Lüfterkurven einstellen mit folgenden Befehl:
+
+sudo pacman -S base-devel
+
+pikaur -S rog-control-center
+
+Öffnet das Rog Control Center
+
+Stellet eure Lüfterkurven in der GUI ein und speichert diese ab
+
+Danach:
+
+systemctl start asusd
+
+sudo reboot
+
+Sobald ihr dem Rog Control Center ein Update verpasst gibt folgendes ein:
+
+$ systemctl daemon-reload && systemctl restart asusd
 
 -------------------------------------------------------------------------
 
