@@ -6,6 +6,7 @@
 
 
 
+Release: ChimeraOS v45-Pre-Release
 
 ENGLISH USER GUIDE# 
 ChimeraOS Asus Rog Ally Setting Up
@@ -62,13 +63,7 @@ Start Cryoutilities and change all to Recommended, reboot now
 
 #################################################
 
-3. NOT available at the Moment!
- 
-To enable refresh rate changing on these devices, enable developer mode in steam and check the "Enable refresh rate changing with external displays" option.
-
-#################################################
-
-4.
+3.
 
 Install Official PowerTools from Decky Loader Store
 
@@ -94,7 +89,7 @@ sudo reboot
 
 ##############################################
 
-4.1
+4.
 
 Adding Fan Curve Setting with Console:
 
@@ -112,7 +107,9 @@ sudo reboot
 
 If you Update rog-control-center then Type this:
 
-$ systemctl daemon-reload && systemctl restart asusd
+systemctl daemon-reload
+
+systemctl restart asusd
 
 ##############################################
 
@@ -188,12 +185,6 @@ Startet nun Cryoutilities, PW ist "gamer" und wählt recommended Setting aus. St
 
 -------------------------------------------------------------------------
 
-3. MOMENT NICHT ZUR VERFÜGUNG, WIR HABEN UNS DAZU ENTSCHLOSSEN ES VORÜBERGEHEND ZU DEAKTIVIEREN!
-
-Um die Änderung der Bildwiederholfrequenz auf diesen Geräten zu aktivieren, aktivieren Sie den Entwicklermodus in Steam, geht auf Entwickler ganz unten in der Leiste und aktivieren Sie die Option „Änderung der Bildwiederholfrequenz mit externen Displays aktivieren“.
-
--------------------------------------------------------------------------
-
 4.
 
 Installiert das offizielle PowerTools aus dem Decky Loader Store herunter (nicht löschen)
@@ -220,7 +211,7 @@ sudo reboot
 
 -------------------------------------------------------------------------
 
-4.1
+4.
 
 Lüfterkurven einstellen mit folgenden Befehl:
 
@@ -240,7 +231,9 @@ sudo reboot
 
 Sobald ihr dem Rog Control Center ein Update verpasst gibt folgendes ein:
 
-$ systemctl daemon-reload && systemctl restart asusd
+systemctl daemon-reload
+
+systemctl restart asusd
 
 -------------------------------------------------------------------------
 
