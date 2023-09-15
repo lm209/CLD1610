@@ -25,7 +25,11 @@ Note: This operating system is still under development.  There could be errors a
 
 1.
 
-Download the Windows Media Creation Tool and create a bootable USB Drive: https://www.microsoft.com/de-de/software-download/windows11 (not needed if you Download my Release)
+Download the latest Release Package and Extract it
+
+Create a Windows 11 ISO with the "Media Creation Tool"
+
+Create a bootable USB Drive with "Rufus"
 
 Boot it up, Format and delete all Partitions
 
@@ -33,12 +37,9 @@ Leave the Partition to unallocated
 
 Make a force Shutdown (hold the power button until it shutdown)
 
-Go to the bios and "Disable Secure Boot under "Boot" Options.
+Go to the bios and "Disable Secure Boot under "Security" Options.
 
-Download this Build here: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337 (not needed if you Download my Release)
-
-Download Etcher and make a bootable USB Drive: https://etcher.balena.io/ (not needed if you Download my Release)
-
+Make with "Etcher" a bootable USB Drive with the ChimeraOS ISO
 
 Boot it up
 
@@ -46,11 +47,12 @@ Connect to Wifi or Ethernet in the Setup
 
 Select the SSD to install ChimeraOS
 
-Select the "Advanced User Installation" and Install the "Unstable Build
+Select the "Advanced User Installation" and Install the "Unstable Build"
 
 -------------------------------------------------------------------------
-
 2.
+
+After installation, Login to your Steam Account 
 
 Now go to the Desktop mode and Open the Console Application.
 
@@ -70,11 +72,9 @@ Start Cryoutilities and change all to Recommended, reboot now
 
 3.
 
-Install Official PowerTools from Decky Loader Store
+Install the Official PowerTools Plugin from Decky Loader
 
-Download this two files for modded Version: https://github.com/hicder/PowerTools/releases/tag/v2.1 (not needed if you Download my Release)
-
-Extract these two files to the "Downloads" Folder
+Extract the "PowerTools.zip" to the "Downloads" Folder
 
 Open the Console and Type:
 
@@ -120,11 +120,9 @@ systemctl restart asusd
 
 5.
 
-Activate VRR in the Steam Menu and Change the Hz Refresh to 120hz.
+Activate VRR in the Steam Menu
 
-Download ProtonUp-Qt from the Discovery Store or use Wine Cellar from Decky Loader 
-
-Download the latest GE Proton!!!
+Download Wine Cellar from Decky Loader, to Download the latest Proton
 
 
 -------------------------------------------------------------------------
@@ -147,17 +145,21 @@ Hinweis: Dieses Betriebssystem befindet sich noch in der Entwicklung.  Es kann z
 
 1.
 
-Laden Sie das Windows Media Creation Tool herunter und erstellen Sie ein bootfähiges USB-Laufwerk: https://www.microsoft.code/software-download/windows11 (nicht erforderlich, sofern Sie mein Release herunterladen)
+Ladet euch das letzte Release Package herunter
+
+Erstellt mit den "Media Creation Tool" eine Windows 11 ISO
+
+Benutzt nun "Rufus" um einen bootbaren USB Stick zu erst
 
 Booten Sie über den USB Stick und formatieren und löschen Sie alle Partitionen.
 
-Lassen Sie die Partition auf "nicht zugeordnet"
+Lassen Sie die Partition auf "nicht zugewiesen"
 
 Führen Sie ein erzwungenes Herunterfahren durch (halten Sie den Netzschalter gedrückt, bis er herunterfährt).
 
 Gehen Sie zum BIOS und deaktivieren Sie „Sicheres Booten“ unter „Security“-Optionen.
 
-Ladet euch diese Version herunter: https://github.com/kzkzkzkzkzk/install-media/releases/tag/2023-09-05_81a7337 (nicht erforderlich, sofern Sie mein Release herunterladen)
+Benutz nun das Programm "Etcher" um einen bootbaren USB Stick mit der ChimeraOS ISO zu erstellen 
 
 Booten nun über den USB Stick 
 
@@ -191,11 +193,9 @@ Startet nun Cryoutilities, PW ist "gamer" und wählt recommended Setting aus. St
 
 4.
 
-Installiert das offizielle PowerTools aus dem Decky Loader Store herunter (nicht löschen)
+Installiert das offizielle PowerTools Plugin aus dem Decky Loader und öffnet den Desktop Modus 
 
-Laden Sie diese beiden Dateien für die modifizierte Version herunter: https://github.com/hicder/PowerTools/releases/tag/v2.1 (nicht erforderlich, sofern Sie mein Release herunterladen)
-
-Extrahieren Sie diese beiden Dateien in den Ordner „Downloads“.
+Extrahiert die "PowerTools.zip" in den Ordner „Downloads“.
 
 Öffnen Sie die Konsole und geben Sie Folgendes ein:
 
@@ -243,9 +243,7 @@ systemctl restart asusd
 
 5.
 
-Aktivieren Sie VRR im Steam-Menü und ändern Sie die Hz-Aktualisierung auf 120 Hz.
+Aktivieren Sie VRR im Steam-Menü
 
-Laden Sie ProtonUp-Qt aus dem Discovery Store herunter oder verwenden Sie Wine Cellar von Decky Loader
-
-Laden Sie das neueste GE Proton herunter!!!
+Laden Sie das Wine Cellar Plugin von Decky Loader herunter, um das aktuellste Proton zu installieren 
 
