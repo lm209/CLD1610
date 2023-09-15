@@ -149,7 +149,7 @@ Ladet euch das letzte Release Package herunter
 
 Erstellt mit den "Media Creation Tool" eine Windows 11 ISO
 
-Benutzt nun "Rufus" um einen bootbaren USB Stick zu erst
+Benutzt nun "Rufus" um einen bootbaren USB Stick zu erstellen
 
 Booten Sie über den USB Stick und formatieren und löschen Sie alle Partitionen.
 
