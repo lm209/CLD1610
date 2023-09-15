@@ -191,7 +191,7 @@ Startet nun Cryoutilities, PW ist "gamer" und wählt recommended Setting aus. St
 
 -------------------------------------------------------------------------
 
-4.
+3.
 
 Installiert das offizielle PowerTools Plugin aus dem Decky Loader und öffnet den Desktop Modus 
 
