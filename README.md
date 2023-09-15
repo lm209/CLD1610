@@ -7,7 +7,7 @@
 
 
 Release: ChimeraOS v45-Pre-Release
-
+-------------------------------------------------------------------------
 ENGLISH USER GUIDE# 
 ChimeraOS Asus Rog Ally Setting Up
 -------------------------------------------------------------------------
