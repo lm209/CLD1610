@@ -12,7 +12,7 @@ CHIMERAOS=STEAMOS
 
 
 
-Release: ChimeraOS v45-Pre-Release
+Release: ChimeraOS v45-Pre-Release2 Hotfix
 -------------------------------------------------------------------------
 ENGLISH USER GUIDE# 
 ChimeraOS Asus Rog Ally Setting Up
