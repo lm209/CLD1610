@@ -120,7 +120,6 @@ Download ProtonUp-Qt from the Discovery Store or use Wine Cellar from Decky Load
 
 Download the latest GE Proton!!!
 
-Now you are done. ChimeraOS should be working perfectly. If you Update the System, you are not need to Set Up ChimeraOS again.
 
 -------------------------------------------------------------------------
 
@@ -244,4 +243,3 @@ Laden Sie ProtonUp-Qt aus dem Discovery Store herunter oder verwenden Sie Wine C
 
 Laden Sie das neueste GE Proton herunter!!!
 
-Jetzt sind Sie fertig. ChimeraOS sollte perfekt funktionieren. Wenn Sie das System aktualisieren, müssen Sie ChimeraOS nicht erneut einrichten.
