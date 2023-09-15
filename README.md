@@ -10,13 +10,12 @@ Release: ChimeraOS v45-Pre-Release
 
 ENGLISH USER GUIDE# 
 ChimeraOS Asus Rog Ally Setting Up
-
+-------------------------------------------------------------------------
 ITS RECOMMENDED TO HAVE THE BIOS AND MCU FIRMWARE UP TO DATE!
 PLEASE UPDATE BEFORE, OVER MYASUS OR THE OFFICIAL DRIVER & SUPPORT SITE!
-
+-------------------------------------------------------------------------
 Note: This operating system is still under development.  There could be errors and missing components.  However, the operating system is in a stable state
-
-####################################################
+-------------------------------------------------------------------------
 
 1.
 
@@ -43,7 +42,7 @@ Select the SSD to install ChimeraOS
 
 Select the "Advanced User Installation" and Install the "Unstable Build
 
-##################################################
+-------------------------------------------------------------------------
 
 2.
 
@@ -61,7 +60,7 @@ curl https://raw.githubusercontent.com/CryoByte33/steam-deck-utilities/main/inst
 
 Start Cryoutilities and change all to Recommended, reboot now
 
-#################################################
+-------------------------------------------------------------------------
 
 3.
 
@@ -87,7 +86,7 @@ sudo systemctl start plugin_loader
 
 sudo reboot
 
-##############################################
+-------------------------------------------------------------------------
 
 4.
 
@@ -111,7 +110,7 @@ systemctl daemon-reload
 
 systemctl restart asusd
 
-##############################################
+-------------------------------------------------------------------------
 
 5.
 
@@ -123,7 +122,7 @@ Download the latest GE Proton!!!
 
 Now you are done. ChimeraOS should be working perfectly. If you Update the System, you are not need to Set Up ChimeraOS again.
 
-###############################################
+-------------------------------------------------------------------------
 
 
 
