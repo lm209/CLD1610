@@ -159,9 +159,9 @@ Führen Sie ein erzwungenes Herunterfahren durch (halten Sie den Netzschalter ge
 
 Gehen Sie zum BIOS und deaktivieren Sie „Sicheres Booten“ unter „Security“-Optionen.
 
-Benutz nun das Programm "Etcher" um einen bootbaren USB Stick mit der ChimeraOS ISO zu erstellen 
+Benutzt nun das Programm "Etcher" um einen bootbaren USB Stick mit der ChimeraOS ISO zu erstellen 
 
-Booten nun über den USB Stick 
+Bootet nun über den USB Stick 
 
 Stellen Sie im Setup eine Verbindung zu WLAN oder Ethernet her
 
