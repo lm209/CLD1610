@@ -1,10 +1,12 @@
 ![image](https://github.com/lm209/CLD1610/assets/82281970/af8a5528-fa7b-4735-882b-7803c66b1ecc)
+ASUS ROG ALLY
 
+![image](https://github.com/lm209/CLD1610/assets/82281970/fe080242-bee1-4ff4-870b-9d87be351d50)
+ARRIVES TO
 
-
-
-![logo](https://github.com/lm209/CLD1610/assets/82281970/b86253ab-a91d-442c-9d48-845a75db5e2d)<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
+![image](https://github.com/lm209/CLD1610/assets/82281970/14965267-248c-43e3-a8b2-1735896209b1)
+CHIMERAOS=STEAMOS
+-
 
 
 
