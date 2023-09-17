@@ -106,7 +106,7 @@ Open Rog Control Center
 
 Setting up your Curve Profiles and save it in the GUI
 
-systemctl start asusd
+sudo systemctl start asusd
 
 sudo reboot
 
@@ -229,7 +229,7 @@ Stellet eure Lüfterkurven in der GUI ein und speichert diese ab
 
 Danach:
 
-systemctl start asusd
+sudo systemctl start asusd
 
 sudo reboot
 
