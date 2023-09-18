@@ -1,10 +1,10 @@
 Dual booting Windows and ChimeraOS on the same Disk
 Some considerations first:
-
-1. This guide assumes you already have a fully functional installation of Windows 11 on the target disk, complete with a properly configured EFI partition.
-
-2. This guide was made with the ROG Ally.
-
+----------------------------------------------------------------------------------------------------------
+This guide assumes you already have a fully functional installation of Windows 11 on the target disk, complete with a properly configured EFI partition.
+----------------------------------------------------------------------------------------------------------
+This guide was made with the ROG Ally.
+----------------------------------------------------------------------------------------------------------
 
 
 
