@@ -8,8 +8,7 @@ This guide was made with the ROG Ally.
 
 
 
-1. Enter the BIOS and disable Secure Boot:
-Some users have encountered issues with this step. For example, on the ROG Ally, ASUS sometimes resets the value. To successfully disable it, I disabled Secure Boot, booted into Windows, unlocked the HD with a Bitlocker key obtained from the Microsoft website, and on the next boot, Secure Boot was successfully disabled.
+1. Enter the BIOS and disable Secure Boot
 ----------------------------------------------------------------------------------------------------------
 2. Disable Bitlocker (if you have it disabled, skip this step)
 In Windows settings, search for 'Bitlocker' or 'Encryption' and disable disk encryption. This process can take approximately one hour as it decrypts each file on the disk.
