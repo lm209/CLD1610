@@ -5,7 +5,7 @@ Last Release: 07.10.2023 New Kernel
 Next Release: ETA
 ---------------------------------------------------------------------------------------------------------
 New Project: Nobara Ally Edition: https://github.com/lm209/Nobara-Steamdeck-install-for-ROG-Ally/tree/main
---------------------------------------------------------------------------------------------------------&
+---------------------------------------------------------------------------------------------------------
 
 Release: ChimeraOS v45-Pre-Release5-Asus-Rog-Ally
 ![image](https://github.com/lm209/CLD1610/assets/82281970/af8a5528-fa7b-4735-882b-7803c66b1ecc)
