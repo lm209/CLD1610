@@ -1,7 +1,8 @@
 ---------------------------------------------------------------------------------------------------------
 Note: ChimeraOS isn't interested for my Project. So this is the end. I'm going to put this project on hold for now.  I can't guarantee it in the future either!
 Last Release: 07.10.2023 New Kernel
-Next Releas: ETA
+---------------------------------------------------------------------------------------------------------
+Next Release: ETA
 ---------------------------------------------------------------------------------------------------------
 
 
